@@ -1,0 +1,13 @@
+{
+  "catppuccin": { "branch": "main", "commit": "1bf070129c0b6f77cc23f6a2212dcdc868308c52" },
+  "julia-repl-vim": { "branch": "main", "commit": "49dc50348df20cc54628b4599d0ce89bd07213e5" },
+  "julia-vim": { "branch": "master", "commit": "7946ce330b6287c9293aece5b14feafa1125779e" },
+  "kanagawa": { "branch": "master", "commit": "cc3b68b08e6a0cb6e6bf9944932940091e49bb83" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "nightfox.nvim": { "branch": "main", "commit": "ba47d4b4c5ec308718641ba7402c143836f35aa9" },
+  "nvim-treesitter": { "branch": "master", "commit": "28d480e0624b259095e56f353ec911f9f2a0f404" },
+  "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
+  "rose-pine": { "branch": "main", "commit": "491a0c77abc7ecb955c27a974091a5968232995f" },
+  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "vague": { "branch": "main", "commit": "9f1ae62d2522f75f3cc857a23a4b87125edce1ad" }
+}
