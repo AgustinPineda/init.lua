@@ -5,7 +5,7 @@ return {
         build = ":TSUpdate",
         opts = {
             -- A list of parser names, or "all" (the five listed parsers should always be installed)
-            ensure_installed = { "julia", "r", "cpp", "c", "lua", "go", "vim", "vimdoc", "query" },
+            ensure_installed = { "julia", "r", "cpp", "c", "lua", "go", "vim", "vimdoc", "query", "matlab" },
 
             -- Install parsers synchronously (only applied to `ensure_installed`)
             sync_install = false,
