@@ -18,7 +18,7 @@ return {
         name = "vague",
         config = function()
             require("vague").setup({
-                transparent = false,
+                transparent = true,
             })
         end
     },
